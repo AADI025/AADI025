@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AADI025 (Aadi Chawla)
+- 👀 I’m interested in Ethical Haching Projects
+- 🌱 I’m currently learning Advanced python and Penetration testing
+- 💞️ I’m looking to collaborate on Python , Ethical Hacking , Web Development Projects
+- 📫 You can reach me at aadichawla2083@gmail.com
